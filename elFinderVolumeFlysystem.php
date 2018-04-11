@@ -6,4 +6,10 @@
  *
  * @author Barry vd. Heuvel
  * */
-class elFinderVolumeFlysystem extends \Barryvdh\elFinderFlysystemDriver\Driver {}
+class elFinderVolumeFlysystem extends \Barryvdh\elFinderFlysystemDriver\Driver {
+  
+  public function getRootName(){
+    return $this->rootName;
+  }
+  
+}
