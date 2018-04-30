@@ -65,3 +65,9 @@ A signKey is optional, but can help secure your images against changing paramete
 ### License
 
 This elFinder driver is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+
+### Fuqu
+
+{"type": "vcs", "url": "https://github.com/fuqu-io/elfinder-flysystem-driver"},
+"barryvdh/elfinder-flysystem-driver": "dev-tweaks as 0.2.x-dev",
